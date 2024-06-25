@@ -1,4 +1,4 @@
-![logo](https://github.com/Souravm033/Souravm033/blob/main/Github%20logo.jpg)
+![logo](https://github.com/Souravm033/Souravm033/blob/main/Githubb%20logo.jpg)
 <h1 align="center">Hi 👋, I'm Sourav Mishra</h1>
 <h3 align="center">A Data Detective with a penchant for crunching numbers and believes in Data for Good.</h3>
 
